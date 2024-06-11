@@ -25,19 +25,6 @@ The cleaned and transformed data was visualized using PowerBI. The dashboard inc
 2. **Final Project Presentation**: A 15-minute presentation summarizing the project, ready for handover to the client.
 3. **Data and Dashboard Files**: Includes the Excel files used for data collection and the PowerBI dashboard file.
 
-## Repository Structure
-```
-vacation-planning-dashboard/
-├── data/
-│   ├── vacation_data.xlsx
-├── documentation/
-│   ├── project_report.pdf
-│   ├── final_presentation.pptx
-├── dashboard/
-│   ├── vacation_dashboard.pbi
-├── README.md
-└── .gitignore
-```
 
 ## Installation and Setup
 To run this project locally, you'll need to follow these steps:
