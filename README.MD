@@ -1,7 +1,7 @@
 # Vacation Planning Data Analysis and Dashboard
 
 ## Project Overview
-This project involves the creation of a PowerBI dashboard for vacation planning for big company client, developed by a team of six members. The project encompasses data collection, cleaning, transformation, and visualization to provide insights for vacation planning.
+This project involves the creation of a PowerBI dashboard for vacation planning for big company client, developed by a team of three members. The project encompasses data collection, cleaning, transformation, and visualization to provide insights for vacation planning.
 
 ## Objectives
 - Build a PowerBI dashboard that includes key aspects of vacation planning data analysis.
