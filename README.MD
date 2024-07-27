@@ -1,5 +1,5 @@
 # Advanced Vacation Planning Insights and Visualization 
-#### Project Overview
+## Project Overview
 This project involves the creation of a PowerBI dashboard for vacation planning for a major company client, developed by a team of three members. The project encompasses data collection, cleaning, transformation, and visualization to provide insights for vacation planning.
 
 #### Dashboard Overview
