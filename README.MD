@@ -2,15 +2,15 @@
 ## Project Overview
 This project involves the creation of a PowerBI dashboard for vacation planning for a major company client, developed by a team of three members. The project encompasses data collection, cleaning, transformation, and visualization to provide insights for vacation planning.
 
-#### Dashboard Overview
+## Dashboard Overview
 Check out the video demonstration of our PowerBI dashboard:
 
 [![Vacation Planning Dashboard Overview](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-#### Business Problem
+## Business Problem
 Our client aims to provide personalized vacation recommendations for users based on open data sources while encouraging environmentally responsible and sustainable travel choices. The goal is to offer users insights into travel destinations, accommodations, and activities to enhance their vacation experience, all with a priority of limiting their environmental impact.
 
-#### Benefits
+## Benefits
 - **Personalized Vacation Planning:** Users receive tailored vacation recommendations based on their preferences.
 - **Optimized Budgeting:** Budget-conscious travelers can plan their vacations that align with their financial constraints.
 - **Real-time Updates:** Users stay informed with real-time weather updates and event information.
@@ -18,13 +18,13 @@ Our client aims to provide personalized vacation recommendations for users based
 
 This vacation planning project leverages travel-related datasets to provide users with personalized and data-driven vacation recommendations, making their trip planning experience more enjoyable and efficient.
 
-#### Ideal Solution
+## Ideal Solution
 - **Data Storage:** Store the data in a database of your choice, explaining the reasoning behind your preference.
 - **Feasibility Assessment:** Determine what can be delivered within constraints such as time, money, people, and resources. Prioritize high-level requirements and identify "nice to have" features.
 - **Collaboration:** Work across the Bootcamp Workstreams to agree on priorities and develop a coherent solution.
 - **Final Outcome:** A simple dashboard (preferably PowerBI) that provides data-driven, personalized travel recommendations.
 
-#### Activities / Suggestions
+## Activities / Suggestions
 1. **Data Collection and Storage:**
    - Ingest open data from various sources, including tourism boards, weather services, accommodation databases, and event calendars.
    - Collect data on tourist attractions, historical sites, natural landmarks, local events, and weather conditions.
@@ -50,12 +50,12 @@ This vacation planning project leverages travel-related datasets to provide user
 8. **Carbon Footprint:**
    - Source carbon footprint data from environmental agencies, carbon footprint calculators, or datasets that provide information on the carbon emissions associated with travel modes, accommodations, and activities.
 
-#### Deliverables
+## Deliverables
 - **Project Report:** Contains detailed documentation on the vacation planning data analysis and the reasoning behind different parameters and methods.
 - **Final Project Presentation:** A 15-minute presentation summarizing the project, ready for handover to the client.
 - **Data and Dashboard Files:** Includes the Excel files used for data collection and the PowerBI dashboard file.
 
-#### Installation and Setup
+## Installation and Setup
 To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
@@ -70,10 +70,10 @@ To run this project locally, follow these steps:
 3. **Open the Dashboard:**
     Open `vacation_dashboard.pbi` in PowerBI to view the dashboard.
 
-#### Usage
+## Usage
 The PowerBI dashboard provides interactive visualizations for exploring vacation planning data. Users can filter and drill down into specific data points to gain insights.
 
-#### Contributing
+## Contributing
 If you'd like to contribute to this project, please follow these steps:
 1. **Fork the repository.**
 2. **Create a new branch:**
@@ -91,10 +91,10 @@ If you'd like to contribute to this project, please follow these steps:
     ```
 6. **Open a pull request.**
 
-#### Acknowledgements
+## Acknowledgements
 Special thanks to my teammates Rumina and Irene for their invaluable contributions to this project.
 
-#### Contact Information
+## Contact Information
 For any inquiries or feedback, please contact [Muhammed Salim](mailto:muhammedismael2121@gmail.com).
 
 
