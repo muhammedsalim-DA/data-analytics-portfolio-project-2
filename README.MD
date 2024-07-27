@@ -1,5 +1,3 @@
-Certainly! Here’s the revised README with the dashboard video placed at the beginning for a quick overview:
-
 ### Advanced Vacation Planning Insights and Visualization 
 #### Project Overview
 This project involves the creation of a PowerBI dashboard for vacation planning for a major company client, developed by a team of three members. The project encompasses data collection, cleaning, transformation, and visualization to provide insights for vacation planning.
@@ -99,8 +97,5 @@ Special thanks to my teammates Rumina and Irene for their invaluable contributio
 #### Contact Information
 For any inquiries or feedback, please contact [Muhammed Salim](mailto:muhammedismael2121@gmail.com).
 
----
-
-Replace `YOUR_VIDEO_ID` with the actual YouTube video ID of your dashboard demonstration. This will display the video link at the top of the README for a quick overview.
 
 
